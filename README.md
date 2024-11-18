@@ -11,3 +11,9 @@ DEPORTES:
 	Fútbol
 	Running
 	Calistenia
+
+FAVORITAS:
+	
+	La bicicleta
+	Dale Don dale
+	La gozadera
