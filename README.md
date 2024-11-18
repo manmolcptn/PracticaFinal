@@ -11,3 +11,9 @@ DEPORTES:
 	Fútbol
 	Running
 	Calistenia
+
+FAVORITAS:
+
+	La gozadera
+	La bicicleta
+	La gasolina
